@@ -107,7 +107,10 @@ Isenbarger, T.A., & Krebs, M.P. Role of Helix-Helix Interactions in Assembly of 
 
 ###Representative patents drafted and prosecuted  
 
+12,376,589 Chryseobacterium Insect Inhibitory Microbial Compositions And Methods Of Making And Using  
+12,343,184 Patient Positioning System  
 12,196,914 Rain Sensor  
+12,151,000 Tolerogenic Artificial Antigen-presenting Cells  
 12,098,172 Compositions And Methods For Targeting MASAs To Treat Cancers With Spliceosome Mutations  
 12,042,313 Radiation Protection  
 12,018,297 Nuclease-mediated Nucleic Acid Modification  
