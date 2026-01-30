@@ -79,6 +79,7 @@ Creation of rhodopsin mutants in *Drosophila melanogaster*
 
 
 ###Publications  
+
 Shams, S., Rolquin, J., Meccia, J., Wartenweiler, V., Li, S., Schmid, S., Matus, N., & Isenbarger, T. A Review of Psilocybin Structural Derivatives and Related Patent Trends. Submitted, *Psychedelic Medicine*  
 
 Meccia, J., Casimir, D., Li, S., Shams, S., Isenbarger, T.A., & Seelig, M. Treatment of Major Depressive Disorder and Treatment Resistant Depression with 5-MeO-DMT: Impact of 25 Years of Non-Traditional Public Scientific Communication and Education on Clinical Development and Commercialization. Submitted, *Journal of Law and the Biosciences* [Download preprint](https://www.portasophia.org/files/claims-charts/Meccia-et-al-2024-5-MeO-DMT.pdf)  
