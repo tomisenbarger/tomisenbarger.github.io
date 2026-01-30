@@ -3,7 +3,7 @@
 Registered United States Patent Attorney  
 Madison, Wisconsin, USA  
 
-Updated October 10, 2025  
+Updated January 30, 2026  
 
 [LinkedIn profile](https://www.linkedin.com/in/tomisenbarger/)  
 
@@ -107,6 +107,9 @@ Isenbarger, T.A., & Krebs, M.P. Role of Helix-Helix Interactions in Assembly of 
 
 ###Representative patents drafted and prosecuted  
 
+12,523,625 Calorimeter  
+12,478,603 Serum Metabolites As Biomarkers For Carnitine Treatment Of Sepsis  
+12,460,249 Protein Analyte Detection By Analizing Time-dependent Signals From Transient Binding Events Of Labeled Low-affinity Probes  
 12,376,589 Chryseobacterium Insect Inhibitory Microbial Compositions And Methods Of Making And Using  
 12,343,184 Patient Positioning System  
 12,196,914 Rain Sensor  
