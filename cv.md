@@ -80,7 +80,7 @@ Creation of rhodopsin mutants in *Drosophila melanogaster*
 
 ###Publications  
 
-Isenbarger, Thomas A. Grounation Day and the Apophatic Silence of Haile Selassie. Submitted, *Journal of Africana Religions*  
+Isenbarger, Thomas A. Grounation Day and the Apophatic Silence of Haile Selassie. Under review, *Journal of Africana Religions*  
 
 Shams, S., Rolquin, J., Meccia, J., Wartenweiler, V., Li, S., Schmid, S., Matus, N., & Isenbarger, T. A Review of Psilocybin Structural Derivatives and Related Patent Trends. Submitted, *Psychedelic Medicine*  
 
@@ -210,6 +210,7 @@ Phylogenics and molecular evolution
 Nucleic acid and protein diagnostics  
 Nucleic acid sequencing  
 Microfluidics  
+Machine learning, antificial intelligence, large language models  
 Medical imaging and radiation therapy  
 Antibodies and biologics  
 Plant breeding  
