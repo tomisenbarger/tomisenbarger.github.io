@@ -3,7 +3,7 @@
 Registered United States Patent Attorney  
 Madison, Wisconsin, USA  
 
-Updated April 18, 2026  
+Updated July 22, 2026  
 
 [LinkedIn profile](https://www.linkedin.com/in/tomisenbarger/)  
 
@@ -58,9 +58,10 @@ Metagenomics of soil and insect gut microbial communities
 **Harvard Medical School Department of Genetics and
 Massachusetts General Hospital Department of Molecular Biology**  
 Postdoctoral Fellow, 2001–2004  
-Research Advisor: Gary Ruvkun  
+Research Advisor: Gary Ruvkun  ([Nobel Prize](https://www.nobelprize.org/prizes/medicine/2024/summary/) in Physiology or Medicine 2024  
 [SETG](https://www.media.mit.edu/projects/search-for-extra-terrestrial-genomes-setg/overview/): the Search for Extraterrestrial Genomes  
 Identification and analysis of small RNAs involved in stem cell-mediated regeneration
+
 
 **University of Wisconsin Department of Biomolecular Chemistry**  
 Postdoctoral Scientist, 2001  
