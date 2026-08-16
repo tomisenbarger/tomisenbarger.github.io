@@ -3,7 +3,7 @@
 Registered United States Patent Attorney  
 Madison, Wisconsin, USA  
 
-Updated July 22, 2026  
+Updated August 16, 2026  
 
 [LinkedIn profile](https://www.linkedin.com/in/tomisenbarger/)  
 
@@ -81,13 +81,13 @@ Creation of rhodopsin mutants in *Drosophila melanogaster*
 
 ###Publications  
 
-Isenbarger, Thomas A. Grounation Day and the Apophatic Silence of Haile Selassie. Under review, *Journal of Africana Religions*  
+Isenbarger, Thomas A. An Apophatic Reading of Haile Selassie's Silence on Grounation Day. Revised Manuscript Submitted, *Journal of Africana Religions*  
 
 Shams, S., Rolquin, J., Meccia, J., Wartenweiler, V., Li, S., Schmid, S., Matus, N., & Isenbarger, T. A Review of Psilocybin Structural Derivatives and Related Patent Trends. Submitted, *Psychedelic Medicine*  
 
 Meccia, J., Casimir, D., Li, S., Shams, S., Isenbarger, T.A., & Seelig, M. Treatment of Major Depressive Disorder and Treatment Resistant Depression with 5-MeO-DMT: Impact of 25 Years of Non-Traditional Public Scientific Communication and Education on Clinical Development and Commercialization. Accepted for publication, *Psychedelics* [Download preprint](https://www.portasophia.org/files/claims-charts/Meccia-et-al-2024-5-MeO-DMT.pdf)  
 
-Shams, S., Li, S., & Isenbarger, T.A. "Beyond the Trip: A Legal Odyssey – Charting the Course for Psychedelic Innovation through Law and Policy" in *Psychedelic Medicine: Law and Policy* (I. Glenn Cohen, Mason Marks, Amy L. McGuire, Susannah Baruch, eds.), Cambridge University Press (forthcoming 2026).  
+Shams, S., Li, S., & Isenbarger, T.A. "Beyond the Trip: A Legal Odyssey – Charting the Course for Psychedelic Innovation through Law and Policy" in *Psychedelic Medicine: Law and Policy* (I. Glenn Cohen, Mason Marks, Amy L. McGuire, Susannah Baruch, eds.), Cambridge University Press (forthcoming 2026) (DOI: 10.1017/9781009654210).  
 
 Shams, S., Pratt, A.R., Li, S., & Isenbarger, T. The Evolving Role of History in the Past, Present, and Future of Psychedelic Patenting. *History of Pharmacy and Pharmaceuticals* 65(1), 117-130 (2023). [HOPP](https://hopp.uwpress.org/content/65/1/117/)  
 
