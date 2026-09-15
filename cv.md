@@ -3,7 +3,7 @@
 Registered United States Patent Attorney  
 Madison, Wisconsin, USA  
 
-Updated August 16, 2026  
+Updated September 15, 2026  
 
 [LinkedIn profile](https://www.linkedin.com/in/tomisenbarger/)  
 
@@ -80,6 +80,8 @@ Creation of rhodopsin mutants in *Drosophila melanogaster*
 
 
 ###Publications  
+
+Isenbarger, Thomas A. The Minority Report of the 1961 Mission to Africa and the Making of the Rastafari Written Record. In preparation.  
 
 Isenbarger, Thomas A. An Apophatic Reading of Haile Selassie's Silence on Grounation Day. Revised Manuscript Submitted, *Journal of Africana Religions*  
 
