@@ -83,7 +83,7 @@ Creation of rhodopsin mutants in *Drosophila melanogaster*
 
 Isenbarger, Thomas A. The Minority Report of the 1961 Mission to Africa and the Making of the Rastafari Written Record. Submitted, *New West Indian Guide*  
 
-Isenbarger, Thomas A. An Apophatic Reading of Haile Selassie's Silence on Grounation Day. Revised Manuscript Revised and re-submitted, *Journal of Africana Religions*  
+Isenbarger, Thomas A. An Apophatic Reading of Haile Selassie's Silence on Grounation Day. Revised manuscript re-submitted, *Journal of Africana Religions*  
 
 Shams, S., Rolquin, J., Meccia, J., Wartenweiler, V., Li, S., Schmid, S., Matus, N., & Isenbarger, T. A Review of Psilocybin Structural Derivatives and Related Patent Trends. Submitted, *Psychedelic Medicine*  
 
