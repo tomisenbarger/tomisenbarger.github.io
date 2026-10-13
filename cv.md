@@ -3,8 +3,6 @@
 Registered United States Patent Attorney  
 Madison, Wisconsin, USA
 
-Updated October 13, 2026
-
 [LinkedIn profile](https://www.linkedin.com/in/tomisenbarger/)
 
 
@@ -80,7 +78,8 @@ Creation of rhodopsin mutants in *Drosophila melanogaster*
 
 ### Publications
 
-**Law and Policy**  
+**Law and Policy**
+
 Shams, S., Rolquin, J., Meccia, J., Wartenweiler, V., Li, S., Schmid, S., Matus, N., & Isenbarger, T. A Review of Psilocybin Structural Derivatives and Related Patent Trends. Submitted, *Psychedelic Medicine*
 
 Meccia, J., Casimir, D., Li, S., Shams, S., Isenbarger, T.A., & Seelig, M. Treatment of Major Depressive Disorder and Treatment Resistant Depression with 5-MeO-DMT: Impact of 25 Years of Non-Traditional Public Scientific Communication and Education on Clinical Development and Commercialization. *Psychedelics* 3, 100019 (2026). [Psychedelics](https://www.sciencedirect.com/science/article/pii/S2950484826000123)
@@ -91,7 +90,8 @@ Shams, S., Pratt, A.R., Li, S., & Isenbarger, T. The Evolving Role of History in
 
 Isenbarger, T.A. *In re Kubin*’s Reinvigorated Nonobviousness Standard for DNA Patents. *Wisconsin Law Review* 2009(6), 1435–1470 (2010). [SSRN](http://ssrn.com/abstract=1569145)
 
-**Science**  
+**Science**
+
 Friedländer, M.R., Adamidi, C., Han, T., Lebedeva, S., Isenbarger, T.A., Hirst, M., Marra, M., Nusbaum, C., Lee, W.L., Jenkin, J.C., Sánchez Alvarado, A., Kim, J.K., & Rajewsky, N. High-resolution Profiling and Discovery of Planarian Small RNAs. *PNAS* 106(28), 11546–11551 (2009). [PubMed](https://pubmed.ncbi.nlm.nih.gov/19564616/)
 
 Isenbarger, T.A., Carr, C.E., Johnson, S.S., Finney, M., Church, G.M., Gilbert, W., Zuber, M.T., & Ruvkun, G. The Most Conserved Genome Segments for Life Detection on Earth and Other Planets. *Origins of Life and Evolution of Biospheres* 38(6), 517–533 (2008). [PubMed](https://pubmed.ncbi.nlm.nih.gov/18853276/)
@@ -108,7 +108,8 @@ Krebs, M.P., & Isenbarger, T.A. Structural Determinants of Purple Membrane Assem
 
 Isenbarger, T.A., & Krebs, M.P. Role of Helix-Helix Interactions in Assembly of the Bacteriorhodopsin Lattice. *Biochemistry* 38(28), 9023–9030 (1999). [PubMed](https://pubmed.ncbi.nlm.nih.gov/10413475/)
 
-**History and Religious Studies**  
+**History and Religious Studies**
+
 Isenbarger, Thomas A. The Minority Report of the 1961 Mission to Africa and the Making of the Rastafari Written Record. Under review, *New West Indian Guide*
 
 Isenbarger, Thomas A. An Apophatic Reading of Haile Selassie's Silence on Grounation Day. Revised manuscript under review, *Journal of Africana Religions*
@@ -116,63 +117,73 @@ Isenbarger, Thomas A. An Apophatic Reading of Haile Selassie's Silence on Grouna
 
 ### Representative Patents Drafted and Prosecuted
 
-[12,723,075](https://patents.google.com/patent/US12723075) Humanized Antibodies Directed Against KCNK9  
+**Molecular Biology and Genomics**  
 [12,698,244](https://patents.google.com/patent/US12698244) Microbial Consortia for Soil Improvement  
-[12,606,617](https://patents.google.com/patent/US12606617) Composition Comprising an IgE Antibody  
-[12,559,799](https://patents.google.com/patent/US12559799) Methods for the Detection of Genomic Copy Changes in DNA Samples  
-[12,523,625](https://patents.google.com/patent/US12523625) Calorimeter  
-[12,478,603](https://patents.google.com/patent/US12478603) Serum Metabolites as Biomarkers for Carnitine Treatment of Sepsis  
-[12,460,249](https://patents.google.com/patent/US12460249) Protein Analyte Detection by Analyzing Time-Dependent Signals from Transient Binding Events of Labeled Low-Affinity Probes  
 [12,376,589](https://patents.google.com/patent/US12376589) *Chryseobacterium* Insect Inhibitory Microbial Compositions and Methods of Making and Using  
-[12,343,184](https://patents.google.com/patent/US12343184) Patient Positioning System  
-[12,196,914](https://patents.google.com/patent/US12196914) Rain Sensor  
-[12,151,000](https://patents.google.com/patent/US12151000) Tolerogenic Artificial Antigen-Presenting Cells  
-[12,098,172](https://patents.google.com/patent/US12098172) Compositions and Methods for Targeting MASAs to Treat Cancers with Spliceosome Mutations  
-[12,042,313](https://patents.google.com/patent/US12042313) Radiation Protection  
 [12,018,297](https://patents.google.com/patent/US12018297) Nuclease-Mediated Nucleic Acid Modification  
 [12,016,285](https://patents.google.com/patent/US12016285) Higher-Yielding Proso  
+[11,390,882](https://patents.google.com/patent/US11390882) Expression Vector  
+[10,851,423](https://patents.google.com/patent/US10851423) SNP Arrays  
+[10,704,091](https://patents.google.com/patent/US10704091) Genotyping by Next-Generation Sequencing  
+[10,329,603](https://patents.google.com/patent/US10329603) Recombinase Polymerase Amplification  
+[10,036,013](https://patents.google.com/patent/US10036013) Next-Generation Sequencing Libraries
+
+**Diagnostics, Imaging, and Radiation Therapy**  
+[12,559,799](https://patents.google.com/patent/US12559799) Methods for the Detection of Genomic Copy Changes in DNA Samples  
+[12,478,603](https://patents.google.com/patent/US12478603) Serum Metabolites as Biomarkers for Carnitine Treatment of Sepsis  
+[12,460,249](https://patents.google.com/patent/US12460249) Protein Analyte Detection by Analyzing Time-Dependent Signals from Transient Binding Events of Labeled Low-Affinity Probes  
+[12,343,184](https://patents.google.com/patent/US12343184) Patient Positioning System  
+[12,042,313](https://patents.google.com/patent/US12042313) Radiation Protection  
 [11,918,397](https://patents.google.com/patent/US11918397) Multi-Axis Medical Imaging  
 [11,841,468](https://patents.google.com/patent/US11841468) Photon Sensor  
-[11,819,516](https://patents.google.com/patent/US11819516) Immunotherapy  
-[11,773,182](https://patents.google.com/patent/US11773182) Development of New Monoclonal Antibodies Recognizing Human Prostate-Specific Membrane Antigen (PSMA)  
-[11,741,834](https://patents.google.com/patent/US11741834) Distributed Driving Systems and Methods for Automated Vehicles  
-[11,735,035](https://patents.google.com/patent/US11735035) Autonomous Vehicle and Cloud Control (AVCC) System with Roadside Unit (RSU) Network  
 [11,724,260](https://patents.google.com/patent/US11724260) Microfluidic Sensor  
-[11,645,467](https://patents.google.com/patent/US11645467) Training a System to Perform a Task with Multiple Specific Steps Given a General Natural Language Command  
-[11,645,139](https://patents.google.com/patent/US11645139) Software Testing  
-[11,577,002](https://patents.google.com/patent/US11577002) Bioengineered Vascular Network  
 [11,529,109](https://patents.google.com/patent/US11529109) Patient Positioning Apparatus  
-[11,495,126](https://patents.google.com/patent/US11495126) Systems and Methods for Driving Intelligence Allocation between Vehicles and Highways  
-[11,436,923](https://patents.google.com/patent/US11436923) Proactive Sensing Systems and Methods for Intelligent Road Infrastructure Systems  
 [11,428,686](https://patents.google.com/patent/US11428686) Membrane Assay Method  
-[11,390,882](https://patents.google.com/patent/US11390882) Expression Vector  
-[11,359,005](https://patents.google.com/patent/US11359005) Supramolecular High Affinity Protein-Binding System for Purification of Biomacromolecules  
 [11,295,449](https://patents.google.com/patent/US11295449) Three-Dimensional Tracking of a Target in a Body  
-[11,229,614](https://patents.google.com/patent/US11229614) Supramolecular Hydrogel Applications to the Carotid Bodies to Treat Hypertension and Sleep Apnea in Obesity  
-[11,224,584](https://patents.google.com/patent/US11224584) Sleep Apnea Treatment  
 [11,185,864](https://patents.google.com/patent/US11185864) Sample Preparation Device  
-[11,180,760](https://patents.google.com/patent/US11180760) Identification of Molecular Pathways and Methods of Use Thereof for Treating Retinal Neurodegeneration and Other Neurodegenerative Disorders  
-[11,174,326](https://patents.google.com/patent/US11174326) Polymerization Photoinhibitor  
-[11,160,875](https://patents.google.com/patent/US11160875) Therapeutic Nanofiber Hydrogels for Local Treatment of Brain-Related Diseases  
-[10,918,673](https://patents.google.com/patent/US10918673) Immunoisolation Device  
-[10,851,423](https://patents.google.com/patent/US10851423) SNP Arrays  
-[10,751,324](https://patents.google.com/patent/US10751324) Treatment of TNF-alpha Cytotoxicity  
-[10,704,091](https://patents.google.com/patent/US10704091) Genotyping by Next-Generation Sequencing  
-[10,692,365](https://patents.google.com/patent/US10692365) Intelligent Road Infrastructure System (IRIS): Systems and Methods  
-[10,648,877](https://patents.google.com/patent/US10648877) Mechanical Strain-Based Weather Sensor  
 [10,632,464](https://patents.google.com/patent/US10632464) Microfluidic Devices and Related Methods  
-[10,590,462](https://patents.google.com/patent/US10590462) Probes and Assays for Measuring E3 Ligase Activity  
-[10,501,535](https://patents.google.com/patent/US10501535) Antibody Targeting Stem Cell Factor  
-[10,380,886](https://patents.google.com/patent/US10380886) Connected Automated Vehicle Highway Systems and Methods  
-[10,329,603](https://patents.google.com/patent/US10329603) Recombinase Polymerase Amplification  
 [10,259,781](https://patents.google.com/patent/US10259781) Imaging Agents  
-[10,036,013](https://patents.google.com/patent/US10036013) Next-Generation Sequencing Libraries  
-[9,944,652](https://patents.google.com/patent/US9944652) Deuterated Amlexanox  
 [9,931,412](https://patents.google.com/patent/US9931412) Targeted Theranostics  
-[9,353,178](https://patents.google.com/patent/US9353178) Stem Cell Factor Inhibitor
-
 [D1124350](https://patents.google.com/patent/USD1124350) Arm Rest  
 [D960385](https://patents.google.com/patent/USD960385) Lateral Flow Assay Reader Apparatus
+
+**Therapeutics and Biologics**  
+[12,723,075](https://patents.google.com/patent/US12723075) Humanized Antibodies Directed Against KCNK9  
+[12,606,617](https://patents.google.com/patent/US12606617) Composition Comprising an IgE Antibody  
+[12,151,000](https://patents.google.com/patent/US12151000) Tolerogenic Artificial Antigen-Presenting Cells  
+[12,098,172](https://patents.google.com/patent/US12098172) Compositions and Methods for Targeting MASAs to Treat Cancers with Spliceosome Mutations  
+[11,819,516](https://patents.google.com/patent/US11819516) Immunotherapy  
+[11,773,182](https://patents.google.com/patent/US11773182) Development of New Monoclonal Antibodies Recognizing Human Prostate-Specific Membrane Antigen (PSMA)  
+[11,577,002](https://patents.google.com/patent/US11577002) Bioengineered Vascular Network  
+[11,229,614](https://patents.google.com/patent/US11229614) Supramolecular Hydrogel Applications to the Carotid Bodies to Treat Hypertension and Sleep Apnea in Obesity  
+[11,224,584](https://patents.google.com/patent/US11224584) Sleep Apnea Treatment  
+[11,180,760](https://patents.google.com/patent/US11180760) Identification of Molecular Pathways and Methods of Use Thereof for Treating Retinal Neurodegeneration and Other Neurodegenerative Disorders  
+[11,160,875](https://patents.google.com/patent/US11160875) Therapeutic Nanofiber Hydrogels for Local Treatment of Brain-Related Diseases  
+[10,918,673](https://patents.google.com/patent/US10918673) Immunoisolation Device  
+[10,751,324](https://patents.google.com/patent/US10751324) Treatment of TNF-alpha Cytotoxicity  
+[10,501,535](https://patents.google.com/patent/US10501535) Antibody Targeting Stem Cell Factor  
+[9,944,652](https://patents.google.com/patent/US9944652) Deuterated Amlexanox  
+[9,353,178](https://patents.google.com/patent/US9353178) Stem Cell Factor Inhibitor
+
+**Protein Biochemistry and Biophysics**  
+[11,359,005](https://patents.google.com/patent/US11359005) Supramolecular High Affinity Protein-Binding System for Purification of Biomacromolecules  
+[10,590,462](https://patents.google.com/patent/US10590462) Probes and Assays for Measuring E3 Ligase Activity
+
+**Engineering**  
+[12,523,625](https://patents.google.com/patent/US12523625) Calorimeter  
+[12,196,914](https://patents.google.com/patent/US12196914) Rain Sensor  
+[11,741,834](https://patents.google.com/patent/US11741834) Distributed Driving Systems and Methods for Automated Vehicles  
+[11,735,035](https://patents.google.com/patent/US11735035) Autonomous Vehicle and Cloud Control (AVCC) System with Roadside Unit (RSU) Network  
+[11,495,126](https://patents.google.com/patent/US11495126) Systems and Methods for Driving Intelligence Allocation between Vehicles and Highways  
+[11,436,923](https://patents.google.com/patent/US11436923) Proactive Sensing Systems and Methods for Intelligent Road Infrastructure Systems  
+[11,174,326](https://patents.google.com/patent/US11174326) Polymerization Photoinhibitor  
+[10,692,365](https://patents.google.com/patent/US10692365) Intelligent Road Infrastructure System (IRIS): Systems and Methods  
+[10,648,877](https://patents.google.com/patent/US10648877) Mechanical Strain-Based Weather Sensor  
+[10,380,886](https://patents.google.com/patent/US10380886) Connected Automated Vehicle Highway Systems and Methods
+
+**Computational**  
+[11,645,467](https://patents.google.com/patent/US11645467) Training a System to Perform a Task with Multiple Specific Steps Given a General Natural Language Command  
+[11,645,139](https://patents.google.com/patent/US11645139) Software Testing
 
 
 ### Presentations
@@ -245,3 +256,6 @@ Automated driving technologies
 Bioinformatics  
 Machine learning, artificial intelligence, large language models  
 UNIX and X11 bioinformatics tools, perl, molecular modeling
+
+
+Updated October 13, 2026
