@@ -1,11 +1,12 @@
-## Thomas A. Isenbarger, J.D., Ph.D.  
+## Thomas A. Isenbarger, J.D., Ph.D.
 
 Registered United States Patent Attorney  
-Madison, Wisconsin, USA  
+Madison, Wisconsin, USA
 
-Updated October 13, 2026  
+Updated October 13, 2026
 
-[LinkedIn profile](https://www.linkedin.com/in/tomisenbarger/)  
+[LinkedIn profile](https://www.linkedin.com/in/tomisenbarger/)
+
 
 ### Education
 
@@ -16,19 +17,19 @@ Order of the Coif
 ABA-BNA Award for Excellence in the Study of Intellectual Property Law  
 Wisconsin State Bar/UW Law School Academic Achievement Award for Constitutional Law  
 Dean’s List (for all semesters eligible)  
-Dean’s Academic Achievement Award  
+Dean’s Academic Achievement Award
 
 **Ph.D.**, University of Wisconsin Department of Biomolecular Chemistry  
-May 2001 (GPA 4.0/4.0)  
+May 2001 (GPA 4.0/4.0)
 
 **B.S.**, Biochemistry, University of Notre Dame  
-May 1994, *summa cum laude* (GPA 3.9/4.0, class rank 8)  
+May 1994, *summa cum laude* (GPA 3.9/4.0, class rank 8)
 
 
 ### Admitted
 
 State Bar of Wisconsin  
-United States Patent and Trademark Office  
+United States Patent and Trademark Office
 
 
 ### Legal Work Experience
@@ -37,13 +38,13 @@ United States Patent and Trademark Office
 Senior Shareholder, 2022–present  
 Shareholder, 2018–2022  
 Associate Attorney, 2010–2018  
-[Casimir Jones Biography](https://casimirjones.com/thomas-a-isenbarger/)  
+[Casimir Jones Biography](https://casimirjones.com/thomas-a-isenbarger/)
 
 **University of Wisconsin Law School Law & Entrepreneurship Clinic**  
-Member, 2009–2010  
+Member, 2009–2010
 
 **Foley & Lardner LLP**  
-Summer Associate, Intellectual Property, summers of 2008 & 2009  
+Summer Associate, Intellectual Property, summers of 2008 & 2009
 
 
 ### Scientific Research Experience
@@ -52,68 +53,65 @@ Summer Associate, Intellectual Property, summers of 2008 & 2009
 Postdoctoral Scientist, 2004–2007  
 Research Advisor: Jo Handelsman  
 Culture-independent analysis of a hypersaline microbial mat community  
-Metagenomics of soil and insect gut microbial communities  
+Metagenomics of soil and insect gut microbial communities
 
 **Harvard Medical School Department of Genetics and
 Massachusetts General Hospital Department of Molecular Biology**  
 Postdoctoral Fellow, 2001–2004  
 Research Advisor: Gary Ruvkun ([Nobel Prize](https://www.nobelprize.org/prizes/medicine/2024/summary/) in Physiology or Medicine 2024)  
 [SETG](https://www.media.mit.edu/projects/search-for-extra-terrestrial-genomes-setg/overview/): the Search for Extraterrestrial Genomes  
-Identification and analysis of small RNAs involved in stem cell-mediated regeneration  
+Identification and analysis of small RNAs involved in stem cell-mediated regeneration
 
 **University of Wisconsin Department of Biomolecular Chemistry**  
 Postdoctoral Scientist, 2001  
 Research Advisor: Robert H. Fillingame  
-Structural studies of *E. coli* F1F0 ATP synthase subunit a  
+Structural studies of *E. coli* F1F0 ATP synthase subunit a
 
 **University of Wisconsin Department of Biomolecular Chemistry**  
 Doctoral Research, 1994–2001  
 Research Advisor: Mark P. Krebs  
-Thermodynamic stability of membrane protein oligomerization  
+Thermodynamic stability of membrane protein oligomerization
 
 **University of Notre Dame Department of Biological Sciences**  
 Undergraduate Research, 1994  
 Research Advisor: Joseph E. O’Tousa, Ph.D.  
-Creation of rhodopsin mutants in *Drosophila melanogaster*  
+Creation of rhodopsin mutants in *Drosophila melanogaster*
 
 
 ### Publications
 
-#### Law and Policy
+**Law and Policy**  
+Shams, S., Rolquin, J., Meccia, J., Wartenweiler, V., Li, S., Schmid, S., Matus, N., & Isenbarger, T. A Review of Psilocybin Structural Derivatives and Related Patent Trends. Submitted, *Psychedelic Medicine*
 
-Shams, S., Rolquin, J., Meccia, J., Wartenweiler, V., Li, S., Schmid, S., Matus, N., & Isenbarger, T. A Review of Psilocybin Structural Derivatives and Related Patent Trends. Submitted, *Psychedelic Medicine*  
+Meccia, J., Casimir, D., Li, S., Shams, S., Isenbarger, T.A., & Seelig, M. Treatment of Major Depressive Disorder and Treatment Resistant Depression with 5-MeO-DMT: Impact of 25 Years of Non-Traditional Public Scientific Communication and Education on Clinical Development and Commercialization. *Psychedelics* 3, 100019 (2026). [Psychedelics](https://www.sciencedirect.com/science/article/pii/S2950484826000123)
 
-Meccia, J., Casimir, D., Li, S., Shams, S., Isenbarger, T.A., & Seelig, M. Treatment of Major Depressive Disorder and Treatment Resistant Depression with 5-MeO-DMT: Impact of 25 Years of Non-Traditional Public Scientific Communication and Education on Clinical Development and Commercialization. *Psychedelics* 3, 100019 (2026). [Psychedelics](https://www.sciencedirect.com/science/article/pii/S2950484826000123)  
+Shams, S., Li, S., & Isenbarger, T.A. "Beyond the Trip: A Legal Odyssey – Charting the Course for Psychedelic Innovation through Law and Policy" in *Psychedelic Medicine: Law and Policy* (I. Glenn Cohen, Mason Marks, Amy L. McGuire, Susannah Baruch, eds.), Cambridge University Press (forthcoming 2026) (DOI: 10.1017/9781009654210).
 
-Shams, S., Li, S., & Isenbarger, T.A. "Beyond the Trip: A Legal Odyssey – Charting the Course for Psychedelic Innovation through Law and Policy" in *Psychedelic Medicine: Law and Policy* (I. Glenn Cohen, Mason Marks, Amy L. McGuire, Susannah Baruch, eds.), Cambridge University Press (forthcoming 2026) (DOI: 10.1017/9781009654210).  
+Shams, S., Pratt, A.R., Li, S., & Isenbarger, T. The Evolving Role of History in the Past, Present, and Future of Psychedelic Patenting. *History of Pharmacy and Pharmaceuticals* 65(1), 117–130 (2023). [HOPP](https://hopp.uwpress.org/content/65/1/117/)
 
-Shams, S., Pratt, A.R., Li, S., & Isenbarger, T. The Evolving Role of History in the Past, Present, and Future of Psychedelic Patenting. *History of Pharmacy and Pharmaceuticals* 65(1), 117–130 (2023). [HOPP](https://hopp.uwpress.org/content/65/1/117/)  
+Isenbarger, T.A. *In re Kubin*’s Reinvigorated Nonobviousness Standard for DNA Patents. *Wisconsin Law Review* 2009(6), 1435–1470 (2010). [SSRN](http://ssrn.com/abstract=1569145)
 
-Isenbarger, T.A. *In re Kubin*’s Reinvigorated Nonobviousness Standard for DNA Patents. *Wisconsin Law Review* 2009(6), 1435–1470 (2010). [SSRN](http://ssrn.com/abstract=1569145)  
+**Science**  
+Friedländer, M.R., Adamidi, C., Han, T., Lebedeva, S., Isenbarger, T.A., Hirst, M., Marra, M., Nusbaum, C., Lee, W.L., Jenkin, J.C., Sánchez Alvarado, A., Kim, J.K., & Rajewsky, N. High-resolution Profiling and Discovery of Planarian Small RNAs. *PNAS* 106(28), 11546–11551 (2009). [PubMed](https://pubmed.ncbi.nlm.nih.gov/19564616/)
 
-#### Science
+Isenbarger, T.A., Carr, C.E., Johnson, S.S., Finney, M., Church, G.M., Gilbert, W., Zuber, M.T., & Ruvkun, G. The Most Conserved Genome Segments for Life Detection on Earth and Other Planets. *Origins of Life and Evolution of Biospheres* 38(6), 517–533 (2008). [PubMed](https://pubmed.ncbi.nlm.nih.gov/18853276/)
 
-Friedländer, M.R., Adamidi, C., Han, T., Lebedeva, S., Isenbarger, T.A., Hirst, M., Marra, M., Nusbaum, C., Lee, W.L., Jenkin, J.C., Sánchez Alvarado, A., Kim, J.K., & Rajewsky, N. High-resolution Profiling and Discovery of Planarian Small RNAs. *PNAS* 106(28), 11546–11551 (2009). [PubMed](https://pubmed.ncbi.nlm.nih.gov/19564616/)  
+Isenbarger, T.A., Finney, M., Handelsman, J., & Ruvkun, G. Miniprimer PCR, a New Lens for Viewing the Microbial World. *Appl. Environ. Microbiol.* 74(3), 745–752 (2008). [PubMed](https://pubmed.ncbi.nlm.nih.gov/18083877/)
 
-Isenbarger, T.A., Carr, C.E., Johnson, S.S., Finney, M., Church, G.M., Gilbert, W., Zuber, M.T., & Ruvkun, G. The Most Conserved Genome Segments for Life Detection on Earth and Other Planets. *Origins of Life and Evolution of Biospheres* 38(6), 517–533 (2008). [PubMed](https://pubmed.ncbi.nlm.nih.gov/18853276/)  
+Isenbarger, T.A. The Bacteriorhodopsin Lattice as a Model for Quantifying Interactions that Stabilize Membrane Protein Complexes. Ph.D. dissertation (2001).
 
-Isenbarger, T.A., Finney, M., Handelsman, J., & Ruvkun, G. Miniprimer PCR, a New Lens for Viewing the Microbial World. *Appl. Environ. Microbiol.* 74(3), 745–752 (2008). [PubMed](https://pubmed.ncbi.nlm.nih.gov/18083877/)  
+Isenbarger, T.A., & Krebs, M.P. Thermodynamic Stability of the Bacteriorhodopsin Lattice as Measured by Lipid Dilution. *Biochemistry* 40(39), 11923–11931 (2001). [PubMed](https://pubmed.ncbi.nlm.nih.gov/11570893/)
 
-Isenbarger, T.A. The Bacteriorhodopsin Lattice as a Model for Quantifying Interactions that Stabilize Membrane Protein Complexes. Ph.D. dissertation (2001).  
+Ng, W.V., Kennedy, S.P., . . ., Isenbarger, T.A., . . ., Hood, L., & DasSarma, S. Genome Sequence of *Halobacterium* species NRC-1. *PNAS* 97(22), 12176–12181 (2000). [PubMed](https://pubmed.ncbi.nlm.nih.gov/11016950/)
 
-Isenbarger, T.A., & Krebs, M.P. Thermodynamic Stability of the Bacteriorhodopsin Lattice as Measured by Lipid Dilution. *Biochemistry* 40(39), 11923–11931 (2001). [PubMed](https://pubmed.ncbi.nlm.nih.gov/11570893/)  
+Krebs, M.P., & Isenbarger, T.A. Structural Determinants of Purple Membrane Assembly. *Biochim. Biophys. Acta* 1460(1), 15–26 (2000). [PubMed](https://pubmed.ncbi.nlm.nih.gov/10984587/)
 
-Ng, W.V., Kennedy, S.P., . . ., Isenbarger, T.A., . . ., Hood, L., & DasSarma, S. Genome Sequence of *Halobacterium* species NRC-1. *PNAS* 97(22), 12176–12181 (2000). [PubMed](https://pubmed.ncbi.nlm.nih.gov/11016950/)  
+Isenbarger, T.A., & Krebs, M.P. Role of Helix-Helix Interactions in Assembly of the Bacteriorhodopsin Lattice. *Biochemistry* 38(28), 9023–9030 (1999). [PubMed](https://pubmed.ncbi.nlm.nih.gov/10413475/)
 
-Krebs, M.P., & Isenbarger, T.A. Structural Determinants of Purple Membrane Assembly. *Biochim. Biophys. Acta* 1460(1), 15–26 (2000). [PubMed](https://pubmed.ncbi.nlm.nih.gov/10984587/)  
+**History and Religious Studies**  
+Isenbarger, Thomas A. The Minority Report of the 1961 Mission to Africa and the Making of the Rastafari Written Record. Under review, *New West Indian Guide*
 
-Isenbarger, T.A., & Krebs, M.P. Role of Helix-Helix Interactions in Assembly of the Bacteriorhodopsin Lattice. *Biochemistry* 38(28), 9023–9030 (1999). [PubMed](https://pubmed.ncbi.nlm.nih.gov/10413475/)  
-
-#### History and Religious Studies
-
-Isenbarger, Thomas A. The Minority Report of the 1961 Mission to Africa and the Making of the Rastafari Written Record. Under review, *New West Indian Guide*  
-
-Isenbarger, Thomas A. An Apophatic Reading of Haile Selassie's Silence on Grounation Day. Revised manuscript under review, *Journal of Africana Religions*  
+Isenbarger, Thomas A. An Apophatic Reading of Haile Selassie's Silence on Grounation Day. Revised manuscript under review, *Journal of Africana Religions*
 
 
 ### Representative Patents Drafted and Prosecuted
@@ -171,43 +169,43 @@ Isenbarger, Thomas A. An Apophatic Reading of Haile Selassie's Silence on Grouna
 [10,036,013](https://patents.google.com/patent/US10036013) Next-Generation Sequencing Libraries  
 [9,944,652](https://patents.google.com/patent/US9944652) Deuterated Amlexanox  
 [9,931,412](https://patents.google.com/patent/US9931412) Targeted Theranostics  
-[9,353,178](https://patents.google.com/patent/US9353178) Stem Cell Factor Inhibitor  
+[9,353,178](https://patents.google.com/patent/US9353178) Stem Cell Factor Inhibitor
 
 [D1124350](https://patents.google.com/patent/USD1124350) Arm Rest  
-[D960385](https://patents.google.com/patent/USD960385) Lateral Flow Assay Reader Apparatus  
+[D960385](https://patents.google.com/patent/USD960385) Lateral Flow Assay Reader Apparatus
 
 
 ### Presentations
 
 Temple University Beasley School of Law, April 2024, live online  
-"Patenting Psychedelics"  
+"Patenting Psychedelics"
 
 Agricultural Genome to Phenome Initiative Field Day, October 2022, live online (recording available)  
-"IP in Livestock and Plant Genetics & Breeding – Practical Patent Law for Scientists"  
+"IP in Livestock and Plant Genetics & Breeding – Practical Patent Law for Scientists"
 
 Psychedelic Law Summit, September 2022, live online (recording available)  
-"Psychedelic Intellectual Property: Promoting Innovation and Ethically Protecting IP in the Psychedelics Space"  
+"Psychedelic Intellectual Property: Promoting Innovation and Ethically Protecting IP in the Psychedelics Space"
 
 Applied and Environmental Microbiology Gordon Conference, July 2005, New London, Connecticut  
-"Accessing the Functional Diversity of Uncultured Soil Microorganisms by Metagenomics"  
+"Accessing the Functional Diversity of Uncultured Soil Microorganisms by Metagenomics"
 
 Japanese New Energy and Industrial Technology Development Organization (NEDO) Symposium on "The Collection of Genetic Resources of As Yet Uncultured Microorganisms", November 2004, Tokyo, Japan  
-"Unculturable Bacteria in Microbial Communities from Soil and Insect Guts"  
+"Unculturable Bacteria in Microbial Communities from Soil and Insect Guts"
 
 FASEB Summer Research Conference: Molecular Biophysics of Cellular Membranes, July 2000, Saxton’s River, Vermont  
-"Bacteriorhodopsin as a Model for Quantifying the Interactions that Stabilize Membrane Protein Complexes" (Poster presentation)  
+"Bacteriorhodopsin as a Model for Quantifying the Interactions that Stabilize Membrane Protein Complexes" (Poster presentation)
 
 Department of Biomolecular Chemistry Seminar Series, April 2000, Madison, Wisconsin  
-"Bacteriorhodopsin as a Model for Quantifying the Interactions that Stabilize Membrane Protein Complexes"  
+"Bacteriorhodopsin as a Model for Quantifying the Interactions that Stabilize Membrane Protein Complexes"
 
 Third European Symposium of the Protein Society, September 1999, Garmisch-Partenkirchen, Germany  
-"Helix-Helix Interactions in Assembly of the Bacteriorhodopsin Lattice" (Poster presentation)  
+"Helix-Helix Interactions in Assembly of the Bacteriorhodopsin Lattice" (Poster presentation)
 
 Department of Biomolecular Chemistry Seminar Series, October 1998, Madison, Wisconsin  
-"Transmembrane Helix-Helix Interactions and Their Role in Bacteriorhodopsin Lattice Assembly"  
+"Transmembrane Helix-Helix Interactions and Their Role in Bacteriorhodopsin Lattice Assembly"
 
 Howard Hughes Medical Institute International Symposium: New Approaches to Membrane Protein Structure and Function, August 1998, Madison, Wisconsin  
-"Specific Packing Interactions Between Bacteriorhodopsin Monomers are Required for Purple Membrane Assembly" (Poster presentation)  
+"Specific Packing Interactions Between Bacteriorhodopsin Monomers are Required for Purple Membrane Assembly" (Poster presentation)
 
 
 ### Areas of Expertise
@@ -223,27 +221,27 @@ Vector design and construction
 Plant breeding  
 Culture-independent identification and analysis of microbes  
 Phylogenetics and molecular evolution  
-Natural products discovery  
+Natural products discovery
 
 **Diagnostics, Imaging, and Radiation Therapy**  
 Nucleic acid and protein diagnostics  
 Microfluidics  
-Medical imaging and radiation therapy  
+Medical imaging and radiation therapy
 
 **Therapeutics and Biologics**  
 Antibodies and biologics  
-Therapeutic use of psychedelic compounds  
+Therapeutic use of psychedelic compounds
 
 **Protein Biochemistry and Biophysics**  
 Protein structure  
 X-ray diffraction  
 Spectroscopy (CD, UV/Vis)  
-Detergents  
+Detergents
 
 **Engineering**  
-Automated driving technologies  
+Automated driving technologies
 
 **Computational**  
 Bioinformatics  
 Machine learning, artificial intelligence, large language models  
-UNIX and X11 bioinformatics tools, perl, molecular modeling  
+UNIX and X11 bioinformatics tools, perl, molecular modeling
